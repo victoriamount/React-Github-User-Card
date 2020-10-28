@@ -10,7 +10,6 @@ const StyledFriendCard = Styled.div`
   flex-flow: row wrap;
   justify-content: space-around;
   margin: 1%;
-  background-color: black;
 
 `
 
